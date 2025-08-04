@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "llm-application-evaluation"
+version = "1.0.0"
+description = "Demo for Evaluation of LLM Applications using RAGAS framework"
+authors = ["NiklasUllmannDD <niklas.ullmann@datadrivers.de>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+ragas = "^0.2.9"
+openai = "^1.58.1"
+chromadb = "^0.6.1"
+ipykernel = "^6.29.5"
+flashrank = "^0.2.9"
+langchain = "^0.3.14"
+langchain-openai = "^0.2.14"
+pandas = "^2.2.3"
+tdqm = "^0.0.1"
+matplotlib = "^3.10.0"
+docling = "^2.14.0"
+flagembedding = "^1.3.3"
+sacrebleu = "^2.5.1"
+rouge-score = "^0.1.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

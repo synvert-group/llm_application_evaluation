@@ -1,0 +1,84 @@
+{
+    "examples": [
+        {
+            "question": "What was Amazon's total revenue growth rate in 2023?",
+            "answer": "12% year-over-year, from $514B to $575B"
+        },
+        {
+            "question": "Which Amazon segment had the highest year-over-year revenue growth in 2023?",
+            "answer": "AWS, with a 13% increase, from $80B to $91B"
+        },
+        {
+            "question": "How much did Amazon's Free Cash Flow (FCF) improve in 2023?",
+            "answer": "FCF improved by $48.3B, from -$12.8B in 2022 to $35.5B"
+        },
+        {
+            "question": "What operational strategy at Amazon contributed to faster delivery speeds in 2023?",
+            "answer": "Regionalization and the expansion of same-day facilities"
+        },
+        {
+            "question": "What percentage of items delivered in the U.S. in 2023 were same or next-day at Amazon?",
+            "answer": "Over 4 billion items, part of the 7 billion globally delivered same or next-day"
+        },
+        {
+            "question": "How much did Amazon customers save through deals and coupons in 2023?",
+            "answer": "Nearly $24B, a 70% increase from the previous year"
+        },
+        {
+            "question": "What was Amazon’s largest revenue event in 2023?",
+            "answer": "The extended Black Friday and Cyber Monday holiday shopping event"
+        },
+        {
+            "question": "What initiatives reduced Amazon’s cost to serve per unit in 2023?",
+            "answer": "Regionalization and logistics optimization reduced U.S. costs by more than $0.45 per unit"
+        },
+        {
+            "question": "Which international market turned profitable for Amazon in Q4 2023?",
+            "answer": "Mexico"
+        },
+        {
+            "question": "What was the YoY growth of Amazon's advertising revenue in 2023?",
+            "answer": "24%, increasing from $38B in 2022 to $47B"
+        },
+        {
+            "question": "What technological advancements were launched by AWS in 2023?",
+            "answer": "Graviton4 CPUs, AWS Trainium2 chips, and Amazon Bedrock"
+        },
+        {
+            "question": "What is the goal of Amazon’s Project Kuiper, and what milestone was achieved in 2023?",
+            "answer": "To provide broadband connectivity via satellites; two prototype satellites were successfully launched"
+        },
+        {
+            "question": "How does Amazon integrate generative AI into its services?",
+            "answer": "Through Amazon Bedrock, SageMaker, and applications like Amazon Q"
+        },
+        {
+            "question": "What new feature did Amazon introduce to Prime Video to drive advertising revenue?",
+            "answer": "Ads in shows and movies, with over 200 million monthly viewers"
+        },
+        {
+            "question": "How is Amazon expanding its grocery business using same-day facilities?",
+            "answer": "Exploring adding perishable items like milk and eggs to same-day deliveries"
+        },
+        {
+            "question": "What contribution has Amazon’s Robotics team made to logistics?",
+            "answer": "Primitives for automation like multi-floor storage, trailer loading, and item identification"
+        },
+        {
+            "question": "How many active customers does Amazon Bedrock have?",
+            "answer": "Tens of thousands within months of its launch"
+        },
+        {
+            "question": "What impact did AWS’s Graviton chips have on customer performance?",
+            "answer": "Improved price-performance by ~40% compared to leading x86 processors"
+        },
+        {
+            "question": "How did Amazon improve the logistics experience for third-party sellers in 2023?",
+            "answer": "By offering Global Mile, Amazon Freight, and multi-channel fulfillment services"
+        },
+        {
+            "question": "What long-term trends does Amazon identify as growth opportunities?",
+            "answer": "Retail shift to online, cloud migration, streaming growth, broadband expansion, and generative AI adoption"
+        }
+    ]
+}
